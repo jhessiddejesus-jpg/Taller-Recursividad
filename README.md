@@ -30,14 +30,4 @@ Taller-Recursividad/
 
 ## Compilación y Ejecución
 
-Para compilar y ejecutar el proyecto desde la terminal en el directorio raíz (`Taller-Recursividad`):
-
-1. **Compilar los archivos Java:**
-   ```bash
-   javac -d bin src/Recursividad/*.java
-   ```
-
-2. **Ejecutar el programa principal:**
-   ```bash
-   java -cp bin Recursividad.Main
-   ```
+Para compilar y ejecutar el proyecto desde la terminal en el directorio raíz (`Taller-Recursividad`)
